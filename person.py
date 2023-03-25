@@ -81,5 +81,5 @@ if __name__ == '__main__':
     edwin.name = "Edwin. A"
     print(edwin)
 
-    juan = Person()
-    print(juan)
+    ian = Person()
+    print(ian)
